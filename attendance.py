@@ -8,6 +8,7 @@ import datetime
 import time
 from tkinter import *
 from tkinter import messagebox
+from PIL import Image
 
 window = tk.Tk()
 
